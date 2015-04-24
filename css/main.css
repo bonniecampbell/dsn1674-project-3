@@ -1,0 +1,180 @@
+html{
+box-sizing: border-box;
+font-family: 'Oswald', sans-serif;
+font-weight: 400;
+}
+
+body {
+  maring:none;
+  padding: none;
+}
+
+*,*::before, *::after{
+  box-sizing: inherit;
+}
+
+.title {
+  color: #FFFFFF;
+  padding: 1em 0.5em 0.5em 0.5em;
+  margin: 0;
+  font-size: 2.5rem;
+}
+
+header {
+  background-color:#0C0C0C;
+  text-align: center;
+
+}
+
+nav {
+  margin: 0;
+  padding: 0em 0em 0em 0em;
+}
+ol {
+  list-style: none;
+  color: white;
+  margin:0;
+  padding:0;
+
+}
+
+nav li{
+  background-color:#414042;
+  padding: 1em;
+  margin: 0;
+  float: center;
+  width: 100%;
+  border: 1px solid black;
+  text-align: center;
+}
+
+nav a {
+  text-decoration: none;
+  color: white;
+  padding: 0.5em 0.5em;
+  margin: 0;
+}
+
+nav a:hover {
+  color:#F22028;
+}
+
+.sushi-header {
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  width: 100%;
+  height: auto;
+  padding: 0;
+  margin: 0;
+}
+
+.img-sushi-header {
+  width: 100%;
+  display:inline-block;
+  border-bottom: 10px solid #414042;
+}
+
+h2 {
+text-align: center;
+}
+
+.quote {
+  text-align: center;
+}
+
+.menu{
+  color: #FFFFFF;
+  padding: 0.5em 0.5em 0.5em 0.5em;
+  margin: 0;
+  font-size: 2.5rem;
+  background-color:#0C0C0C;
+  text-align: center;
+  border-top: 10px solid #414042;
+  border-bottom: 10px solid #414042;
+
+}
+
+.sush-1 {
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  width: 100%;
+  height: auto;
+  padding: 0;
+  margin: 0;
+
+}
+
+.img-sushi-1{
+  width: 100%;
+  display:inline-block;
+}
+
+.hand-rolls{
+  padding:0 0 1.5em 0;
+}
+
+.sush-2 {
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  width: 100%;
+  height: auto;
+  padding: 0;
+  margin: 0;
+
+}
+
+.img-sushi-2{
+  width: 100%;
+  display:inline-block;
+}
+
+.maki-rolls {
+  padding:0 0 1.5em 0;
+}
+
+.sushi-dessert {
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  width: 100%;
+  height: auto;
+  padding: 0;
+  margin: 0;
+
+}
+
+.img-sushi-dessert{
+  width: 100%;
+  display:inline-block;
+}
+
+.dessert{
+  padding:0 0 1.5em 0;
+}
+
+.location{
+  color: #FFFFFF;
+  padding: 0.5em 0.5em 0.5em 0.5em;
+  margin: 0;
+  font-size: 2.5rem;
+  background-color:#0C0C0C;
+  text-align: center;
+  border-top: 10px solid #414042;
+  border-bottom: 10px solid #414042;
+
+}
+
+.button{
+  display: inline-block;
+  padding: 0.5em 0.75em;
+  margin: 1em 0 0 0;
+  text-align: center;
+  text-decoration: none;
+  color: #fff;
+  background-color: #F22028;
+  font-size: 1.5em;
+  width: 100%;
+}
