@@ -4,11 +4,6 @@ font-family: 'Oswald', sans-serif;
 font-weight: 400;
 }
 
-body {
-  maring:none;
-  padding: none;
-}
-
 *,*::before, *::after{
   box-sizing: inherit;
 }
@@ -42,7 +37,6 @@ nav li{
   background-color:#414042;
   padding: 1em;
   margin: 0;
-  float: center;
   width: 100%;
   border: 1px solid black;
   text-align: center;
