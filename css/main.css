@@ -178,3 +178,83 @@ text-align: center;
   font-size: 1.5em;
   width: 100%;
 }
+
+.address-1{
+  text-align: center;
+  margin:1em 0 0 0;
+}
+
+.address-2{
+  text-align: center;
+  margin:0;
+}
+
+.address-3{
+  text-align: center;
+  margin:0;
+}
+
+.hours{
+  text-align: center;
+  margin:1em 0 0 0;
+}
+
+.phone-number{
+  text-align: center;
+  margin:0 0 2em 0;
+}
+
+.menu-pad {
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  width: 100%;
+  height: auto;
+  padding: 0;
+  margin: 0;
+
+}
+
+.img-menu-pad{
+  width: 100%;
+  display:inline-block;
+  border-top: 10px solid #414042;
+}
+
+.facebook{
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  width: 20%;
+  height: auto;
+  padding: 0;
+  margin: 0;
+  left:42%;
+}
+
+.img-facebook{
+  width: 100%;
+  display:inline-block;
+  }
+
+.logo{
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  width: 20%;
+  height: auto;
+  padding: 0;
+  margin: 0;
+  left:45%;
+  }
+
+.img-logo{
+  width: 100%;
+  display:inline-block;
+  }
+
+footer{
+  background: #414042;
+  text-align: center;
+  padding: 0.5em;
+}
